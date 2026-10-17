@@ -5,4 +5,8 @@ This is a by-product of my <a href="https://github.com/svenpetersen1965/C64-Keyb
 
 It is helpful for keeping the overview of the keycaps while keyboard maintenance and prevent them from tipping over. This makes the installation much easier. 
 
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/blob/main/Rev.%200/picture/5381_-_keyboard_job.JPG" width="400" alt="C64 keyboard job"></p>
+
 <p align="center"><img src="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/blob/main/Rev.%200/picture/5230_-_tray_with_lifted_keycaps.JPG" width="400" alt="C64 keycaps in tray"></p>
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/blob/main/Rev.%200/picture/5386_-_spring_tray.JPG" width="400" alt="C64 keyboard springs in tray"></p>
